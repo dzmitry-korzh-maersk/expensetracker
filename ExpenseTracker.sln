@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseTracker.Api", "ExpenseTracker.Api\ExpenseTracker.Api.csproj", "{61CE9039-FFD8-4175-8257-EFED2F412034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseTracker.Infrastructure", "ExpenseTracker.Infrastructure\ExpenseTracker.Infrastructure.csproj", "{204B5317-B3F5-4084-9DAF-033CB378F412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61CE9039-FFD8-4175-8257-EFED2F412034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CE9039-FFD8-4175-8257-EFED2F412034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CE9039-FFD8-4175-8257-EFED2F412034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CE9039-FFD8-4175-8257-EFED2F412034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204B5317-B3F5-4084-9DAF-033CB378F412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204B5317-B3F5-4084-9DAF-033CB378F412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204B5317-B3F5-4084-9DAF-033CB378F412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204B5317-B3F5-4084-9DAF-033CB378F412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ACB19E9-1C6D-408F-B007-91B85E8C1079}
+	EndGlobalSection
+EndGlobal
